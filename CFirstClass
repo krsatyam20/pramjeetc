@@ -1,0 +1,123 @@
+c + Object Oriented Programing 	=C++ 
+	Oop`s 
+	
+	
+Overview of c 	
+C Language (Low /High Level)  	
+
+Language : Com. with eachother 
+	
+	Human ===============> Machin 
+	English  Translator				Binary Languag(0/1)
+	 
+	Translator
+		=>Compiler
+		=>Interpretor 
+		
+		
+		C language use C Compiler(Compiler: Is a pre define tools which is guid to  correct our commeand)
+				
+					Error:
+						Error:Stop 
+						Warning:May be esc
+						Information :Just Information
+						
+						
+C Application 
+			>Proccesing Aplication 
+				GUI 
+				CMD 
+				
+				
+Tools
+	Notepad
+    C Compiler
+		 TurboC        
+		 CodeBlock
+		 Dev++
+		 
+		 
+		 
+Rules/Synatax:
+
+		1: Value : Value is a just like raw data 
+			Ex: 10,"Ramesh","D-60"
+		2: Value type :
+				Number
+					Integer (int) (0-9)
+						Short integer
+						Long integer
+					Float      (0.0-9.9)
+					Double (0.00-9.99)
+				String 
+					Char :Single Char ''/""  
+							ex: '9', "a"
+					String :Combination of char.
+						'Ramesh'
+						
+		3.  int     %d
+			float   %f
+			double  %f
+			char    %c
+			string  %s
+			
+		4.variable: variable is a memory location where we will can stroe our value 
+			
+			DataType/Value Type   Variable Name
+				int sname
+				
+				Variable Name 
+					
+					Right Way 
+					
+					a:           first letter should be small 
+					studentName: Camel Case 
+				    a_ /name@:         Special sybole use after first letter
+					a9/emp-102:          numeric value use after first letter
+					
+					
+					Wrong Way 
+					A:       first letter  Not a Capital
+					9a/23emp: Not use first as numeric 
+					@aa/ !sdfd: Not use first as special char.
+					
+		5. Comment 
+				// Single Line comment 
+				
+				/* name
+				Multiple line comment 
+				address
+				mobile */ 
+				
+		
+
+		6. Symboles
+
+		(): Function 
+		{  : Function start
+		} : Function Close
+		'' /"" : Char
+		; : Terminate Line 
+		
+
+
+
+		7.
+			Dispaly:  						Printf(" dsfjdsfjkdfdf");
+			Get Input/Data/Value From user: Scanf();
+
+
+
+
+Simple Program in c 
+
+
+datatype main(){ // Compiler Start Point  
+
+printf("My Name is Pramjeet");
+
+
+}
+
+
+			
